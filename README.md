@@ -1,3 +1,7 @@
+- 🔗 **Оригинальный репозиторий**: [SnapSell](https://github.com/tiwarimanvi/SnapSell)
+- ✍️ **Автор**: [Manvi Tiwari](https://github.com/tiwarimanvi)
+- 📖 **Репозиторий используется в статье**: [Как создать и развернуть приложение на Django: быстрый и простой деплой с Apps](https://timeweb.cloud/tutorials/cloud/kak-razvernut-prilozhenie-na-django)
+
 # SnapSell
 
 SnapSell is an online marketplace built on Django, providing a platform for users to buy and sell products. The project includes both frontend and backend components, all developed using the Django web framework.
